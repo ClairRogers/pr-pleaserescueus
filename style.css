@@ -1,0 +1,15 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  background-color: black;
+  color: #940606;
+  font-size: 40px;
+}
+
+.fullview {
+  height: 90vh;
+}
+
+a {
+font-size:14px;
+text-align: center;
+}
